@@ -1,0 +1,93 @@
+[
+    {
+        "Personaje": "Sonic el Erizo",
+        "Genero": "Hombre",
+        "Lado": "Bueno",
+        "Armas": "No",
+        "Whisp": "Si",
+        "Tecnologia": "No",
+        "Principal": "Si",
+        "ChaosE": "Si",
+        "Super": "Si",
+        "Vuela": "No",
+        "Zombot": "No"
+    },
+    {
+        "Personaje": "Tails el Zorro",
+        "Genero": "Hombre",
+        "Lado": "Bueno",
+        "Armas": "Relativamente",
+        "Whisp": "No",
+        "Tecnologia": "Si",
+        "Principal": "Si",
+        "ChaosE": "Si",
+        "Super": "No",
+        "Vuela": "Si",
+        "Zombot": "No"
+    },
+    {
+        "Personaje": "Shadow el Erizo",
+        "Genero": "Hombre",
+        "Lado": "Relativamente",
+        "Armas": "Si",
+        "Whisp": "No",
+        "Tecnologia": "No",
+        "Principal": "No",
+        "ChaosE": "Si",
+        "Super": "Si",
+        "Vuela": "No",
+        "Zombot": "Si"
+    },
+    {
+        "Personaje": "Whisper la Lobita",
+        "Genero": "Mujer",
+        "Lado": "Bueno",
+        "Armas": "Si",
+        "Whisp": "Si",
+        "Tecnologia": "Relativamente",
+        "Principal": "No",
+        "ChaosE": "No",
+        "Super": "No",
+        "Vuela": "Relativamente",
+        "Zombot": "No"
+    },
+    {
+        "Personaje": "Mephiles la Oscuridad",
+        "Genero": "No tiene",
+        "Lado": "Malo",
+        "Armas": "No",
+        "Whisp": "No",
+        "Tecnologia": "No",
+        "Principal": "No",
+        "ChaosE": "Si",
+        "Super": "Relativamente",
+        "Vuela": "No",
+        "Zombot": "No"
+    },
+    {
+        "Personaje": "Eggman",
+        "Genero": "Hombre",
+        "Lado": "Malo",
+        "Armas": "Si",
+        "Whisp": "No",
+        "Tecnologia": "Si",
+        "Principal": "No",
+        "ChaosE": "Si",
+        "Super": "No",
+        "Vuela": "Relativamente",
+        "Zombot": "No"
+    },
+    {
+        "Personaje": "Omega el Robot",
+        "Genero": "No tiene",
+        "Lado": "Bueno",
+        "Armas": "Si",
+        "Whisp": "No",
+        "Tecnologia": "Si",
+        "Principal": "No",
+        "ChaosE": "Si",
+        "Super": "No",
+        "Vuela": "Si",
+        "Zombot": "No"
+    }
+]
